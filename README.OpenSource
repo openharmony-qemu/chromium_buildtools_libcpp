@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_buildtools_libcpp",                   # 上游开源软件名全称
+        "Name": "libcxx",                   # 上游开源软件名全称
         "License":  "GPL-2.0-with-bison-exception",         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.TXT",     # 许可证所在文件路径
         "Version Number": "79a2e924d96e2fc1e4b937c42efd08898fa472d7",
@@ -8,7 +8,7 @@
         "Description": "Chromium 编译库"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_buildtools_libcpp",                   # 上游开源软件名全称
+        "Name": "libcxx",                   # 上游开源软件名全称
         "License": "GPL-3.0+",         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.TXT",     # 许可证所在文件路径
         "Version Number": "79a2e924d96e2fc1e4b937c42efd08898fa472d7",
@@ -16,7 +16,7 @@
         "Description": "Chromium 编译库"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_buildtools_libcpp",                   # 上游开源软件名全称
+        "Name": "libcxx",                   # 上游开源软件名全称
         "License":  "MIT|NCSA",         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.TXT",     # 许可证所在文件路径
         "Version Number": "79a2e924d96e2fc1e4b937c42efd08898fa472d7",
@@ -24,7 +24,7 @@
         "Description": "Chromium 编译库"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_buildtools_libcpp",                   # 上游开源软件名全称
+        "Name": "libcxx",                   # 上游开源软件名全称
         "License":  "SPDX:Apache-2.0 WITH LLVM-exception",         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.TXT",     # 许可证所在文件路径
         "Version Number": "79a2e924d96e2fc1e4b937c42efd08898fa472d7",
@@ -32,7 +32,7 @@
         "Description": "Chromium 编译库"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_buildtools_libcpp",                   # 上游开源软件名全称
+        "Name": "libcxx",                   # 上游开源软件名全称
         "License":  "NoLicenseHeader",        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.TXT",     # 许可证所在文件路径
         "Version Number": "79a2e924d96e2fc1e4b937c42efd08898fa472d7",
@@ -40,7 +40,7 @@
         "Description": "Chromium 编译库"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_buildtools_libcpp",                   # 上游开源软件名全称
+        "Name": "libcxx",                   # 上游开源软件名全称
         "License":  "GPL-2.0+-with-LLVM-exception",         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.TXT",     # 许可证所在文件路径
         "Version Number": "79a2e924d96e2fc1e4b937c42efd08898fa472d7",
@@ -48,7 +48,7 @@
         "Description": "Chromium 编译库"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_buildtools_libcpp",                   # 上游开源软件名全称
+        "Name": "libcxx",                   # 上游开源软件名全称
         "License":  "Apache-2.0",        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.TXT",     # 许可证所在文件路径
         "Version Number": "79a2e924d96e2fc1e4b937c42efd08898fa472d7",
@@ -56,7 +56,7 @@
         "Description": "Chromium 编译库"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_buildtools_libcpp",                   # 上游开源软件名全称
+        "Name": "libcxx",                   # 上游开源软件名全称
         "License":  "BSD-2-Clause",         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.TXT",     # 许可证所在文件路径
         "Version Number": "79a2e924d96e2fc1e4b937c42efd08898fa472d7",
